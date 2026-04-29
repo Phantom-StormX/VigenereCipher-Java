@@ -1,5 +1,6 @@
 # Vigenere Cipher project
 ## By Izzy(@Phantom-StormX)
+## HEAVELY inspired by the Caeser Cipher project i made.
 
 #### Purpose
 - This is a vigerne cipher with a instant encryptor and decoder it makes it where you can instantly Encrypt a message with a code or enter a code and decode a message instantly 
