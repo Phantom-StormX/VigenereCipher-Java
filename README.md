@@ -1,5 +1,5 @@
 # Vigenere Cipher project
-## By Izzy(@Phantom-StormX) Elliott(@ElliottandCoachGeorge) and Liam(@theherooftimelegend)
+## By Izzy(@Phantom-StormX) Elliott(@ElliottandCoachGeorge)
 ## HEAVELY inspired by the Caeser Cipher project i made.
 
 #### Purpose
